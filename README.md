@@ -9,5 +9,5 @@ The main objective of this project was reproducing the page shown following the 
 It was done using HTML5 & CSS3. I tried to use semantic HTML in order to get used to the best practices.
 
 
-You can See the final result by clicking the link bellow
+You can See the final result by clicking the link:
 https://wiltonbaltazar.github.io/dasmotos/
